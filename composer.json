@@ -1,5 +1,5 @@
 {
-    "name": "beyondcode/expose",
+    "name": "bitinflow/expose",
     "type": "project",
     "description": "Create public URLs for local sites through any firewall and VPN.",
     "keywords": [
@@ -7,9 +7,13 @@
         "tunnel",
         "ngrok"
     ],
-    "homepage": "https://sharedwithexpose.com",
+    "homepage": "https://bitinflow.dev",
     "license": "MIT",
     "authors": [
+        {
+            "name": "René Preuß",
+            "email": "rene@bitinflow.com"
+        },
         {
             "name": "Marcel Pociot",
             "email": "marcel@beyondco.de"

@@ -13,8 +13,8 @@ return [
     |
     */
     'servers' => [
-        'main' => [
-            'host' => 'sharedwithexpose.com',
+        'free' => [
+            'host' => 'bitinflow.dev',
             'port' => 443,
         ],
     ],
@@ -32,7 +32,7 @@ return [
     | if available.
     |
     */
-    'server_endpoint' => 'https://expose.dev/api/servers',
+    'server_endpoint' => 'https://bitinflow.dev/api/servers',
 
     /*
     |--------------------------------------------------------------------------
@@ -43,7 +43,7 @@ return [
     | or the servers endpoint above.
     |
     */
-    'default_server' => 'main',
+    'default_server' => 'free',
 
     /*
     |--------------------------------------------------------------------------

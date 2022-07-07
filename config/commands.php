@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'default' => \App\Commands\ShareCurrentWorkingDirectoryCommand::class,
+    'default' => NunoMaduro\LaravelConsoleSummary\SummaryCommand::class,
 
     /*
     |--------------------------------------------------------------------------
